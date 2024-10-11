@@ -1,7 +1,8 @@
 __pycache__/
 test/
 runs*
-runs*/
+runs*/*
+!runs*/mem_params.csv
 tmp/
 .vscode/
 data
