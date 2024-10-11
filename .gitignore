@@ -2,7 +2,11 @@ __pycache__/
 test/
 runs*
 runs*/
-!runs*/mem_params.csv
+!runs-32/mem_params.csv
+!runs-64/mem_params.csv
+!runs-128/mem_params.csv
+!runs-256/mem_params.csv
+!runs-512/mem_params.csv
 tmp/
 .vscode/
 data
